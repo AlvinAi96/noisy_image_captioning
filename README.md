@@ -11,7 +11,9 @@ hickle 3.4.3
 matplotlib 2.2.4  
 scikit-learn 0.20.3  
 #### Explanation:
-split.py: | Spliting Flickr8k dataset into train/val/test dataset.  
+| File | Explanation |
+| ---- | ----------- |
+|split.py: | Spliting Flickr8k dataset into train/val/test dataset. | 
 resize.py:                     | Resize the size of images to 224 x 224.  
 vggnet.py:                     | Construct VGG19 architecture.  
 make_dataset.py:               Extract image features and format the textual captions in a proper way.  
